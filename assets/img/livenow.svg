@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="287.189" height="56.402" viewBox="0 0 287.189 56.402">
+  <g id="Group_400" data-name="Group 400" transform="translate(-666.477 -2243.71)">
+    <text id="LIVE_NOW" data-name="LIVE NOW" transform="translate(733.666 2273.71)" fill="#fff" font-size="28" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">LIVE NOW</tspan></text>
+    <text id="See_what_s_on_display_now" data-name="See what&apos;s on display now" transform="translate(733.666 2295.112)" fill="#fff" font-size="19" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">See what&apos;s on display now</tspan></text>
+    <g id="Group_398" data-name="Group 398" transform="translate(666.477 2245.71)">
+      <path id="Path_13" data-name="Path 13" d="M801.33,427.461v17.517h6.326V434.113s11.516,2.272,11.838,14.594h6.489S825.657,426.651,801.33,427.461Z" transform="translate(-773.758 -427.439)" fill="#fff"/>
+      <path id="Path_14" data-name="Path 14" d="M737.185,449.293h15.489V443.7h-9.609s2.01-10.184,12.909-10.471V427.49S736.469,427.777,737.185,449.293Z" transform="translate(-737.095 -427.468)" fill="#fff"/>
+      <path id="Path_15" data-name="Path 15" d="M761.653,525.925V508.409h-6.326v10.865S743.81,517,743.489,504.68H737S737.326,526.736,761.653,525.925Z" transform="translate(-737 -471.575)" fill="#fff"/>
+      <path id="Path_16" data-name="Path 16" d="M833.749,503.5H818.26v5.593h9.609s-2.01,10.183-12.909,10.471V525.3S834.465,525.011,833.749,503.5Z" transform="translate(-781.547 -470.901)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

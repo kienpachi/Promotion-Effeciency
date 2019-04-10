@@ -1,0 +1,176 @@
+@media screen and (max-width: 895px) {
+    .premium .pr1 {
+        margin-top: 45px !important;
+    }
+    .premium .pr {
+        width: 100%;
+        max-width: 400px;
+        display: block;
+        margin: 30px auto;
+    }
+    
+    .fingerprint div {
+        display: block;
+        margin: 0 auto;
+        width: 100%;
+        max-width: 600px;
+    }
+    .fingerprint button {
+        display: block;
+        float: none;
+        margin: 0 auto;
+    }
+    .slider2 .right {
+        width: 90%;
+        display: block;
+        max-width: 280px;
+        margin: 20px auto 0;
+    }
+    .slider2 .left {
+        display: block;
+        margin: auto;
+        width: 100% !important;
+    }
+    .slider2 .left .slides {
+        margin-left: 10%;
+    }
+}
+
+@media screen and (max-width: 810px) {
+    .contact .options {
+        display: block;
+    }
+    .contact .options .l {
+        display: flex;
+        justify-content: space-between;
+    }
+    .contact .options .r {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 20px;
+    }
+}
+
+
+@media screen and (max-width: 793px) {
+    .about .title {
+        margin: 0 auto 20px !important;
+        display: block;
+    }
+    .about .content {
+        margin: 0 auto;
+        width: 100%;
+        height: auto;
+        background-color: #F8F8F8;
+        border: none;
+    }
+    
+}
+
+@media screen and (max-width: 780px) {
+    .contact {
+        display: block;
+    }
+    .contact .left {
+        display: block;
+        width: 100%;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .contact .left .pattern {
+        width: 150px;
+        margin: auto;
+    }
+    .contact .right {
+        display: block;
+        width: 100%;
+        text-align: center;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .partners .logos {
+        display: block;
+    }
+    .partners .logos div {
+        display: inline-block;
+        padding: 0 50px;
+    }
+    
+    .contact form input[type="text"],
+    .contact form select {
+        width: 49%;
+        display: inline-block;
+        margin: 5px 0;
+    }
+    .contact form textarea {
+        margin: 10px auto;
+    }
+}
+
+@media screen and (max-width: 639px) {
+    .container {
+        width: 90%;
+    }
+    .navbar {
+        display: none;
+        float: none;
+        background-color: #1D2829;
+        width: 100vw;
+        margin-left: -6%;
+    }
+    .navbar ul li {
+        display: block;
+        text-align: center;
+    }
+    #menu {
+        display: block;
+    }
+}
+
+@media screen and (max-width: 597px) {
+    .clouds {
+        background-size: auto 100px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .contact .options .l,
+    .contact .options .r {
+        display: block;
+    }
+    .contact .options button,
+    .contact .options .input-file-container {
+        display: block;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .input-file-trigger {
+        width: 100%;
+        text-align: center;
+    }
+    
+}
+
+@media screen and (max-width: 471px) {
+    .contact form input[type="text"],
+    .contact form select {
+        width: 100%;
+        display: block;
+    }
+}
+
+@media screen and (max-width: 460px) {
+    .slider2 .left .slides {
+        margin-left: 0 !important;
+    }
+    .slider2 .statistics {
+        display: block;
+    }
+    .slider2 .statistics > div {
+        display: block;
+        width: 100%;
+        margin: 20px auto;
+    }
+}
